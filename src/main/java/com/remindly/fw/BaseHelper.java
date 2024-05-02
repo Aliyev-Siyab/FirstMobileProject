@@ -82,4 +82,6 @@ public class BaseHelper {
                 .tap(PointOption.point(x,y))
                 .release().perform();
     }
+
+
 }
